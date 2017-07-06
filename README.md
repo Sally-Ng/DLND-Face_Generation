@@ -1,4 +1,4 @@
-## Translate a Language
+## Faces and Digits Generation
 Language: Python (NumPy, TensorFlow) </br>
 Built and trained Generative Adversarial Networks on the CelebA and MNIST dataset to generate new images of faces and digits.
 </br>
