@@ -1,8 +1,6 @@
-# Translate a Language
+## Translate a Language
 Language: Python (NumPy, TensorFlow) </br>
-Built and trained a Recurrent Neural Network and a Sequence to Sequence model
-on a dataset of English and French sentences that can translate new sentences from English to French.
-
+Built and trained Generative Adversarial Networks on the CelebA and MNIST dataset to generate new images of faces and digits.
 </br>
 <p align="left">
   <img src="faces.JPG" width="250"/>
